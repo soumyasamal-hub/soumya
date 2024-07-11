@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SalesAnalyticsApiTest.Tests/obj
+/SalesAnalyticsApiTest.Tests/bin/Debug/net8.0
+/SalesDemoProject/.vs/ProjectEvaluation
+/SalesDemoProject/.vs/SalesDemoProject/config
+/SalesDemoProject/.vs/SalesDemoProject
+/SalesDemoProject/bin/Debug/net8.0
+/SalesDemoProject/obj
